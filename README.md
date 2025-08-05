@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm SHAKIB 👋. A Web Developer focused on creating clean and user-friendly experiences.<br><br>My Stack:<br><br>Frontend: HTML | CSS | JavaScript | React | Next.js<br><br>Styling: Tailwind CSS | Bootstrap<br><br>CMS: WordPress<br><br>💡 I love solving puzzles with code and bringing designs to life. Let's build something cool together!
+# Hi, I'm SHAKIB 👋
+A Web Developer focused on creating clean and user-friendly experiences.<br><br>My Stack:<br><br>Frontend: HTML | CSS | JavaScript | React | Next.js<br><br>Styling: Tailwind CSS | Bootstrap<br><br>CMS: WordPress<br><br>💡 I love solving puzzles with code and bringing designs to life. Let's build something cool together!
 
 
 ## 🌐 Socials:
